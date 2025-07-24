@@ -3,7 +3,6 @@ This is a simple personal portfolio website built using **HTML** and **CSS**. It
 ## Features
 - Clean and responsive design
 - Projects and experience
-- Projects
 - Linkedin link
 ## Technologies Used
 - HTML5
