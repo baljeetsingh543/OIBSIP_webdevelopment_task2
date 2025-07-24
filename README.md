@@ -1,5 +1,5 @@
 # OIBSIP_webdevelopment_task2
-This is a simple personal portfolio website built using **HTML** and **CSS**. It includes an overview of myself, projects, contact information, and a clean responsive layout.
+This is a simple personal portfolio website built using **HTML** and **CSS**. It includes an overview of myself, projects, background, and a clean responsive layout.
 ## Features
 - Clean and responsive design
 - Projects and experience
